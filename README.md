@@ -16,7 +16,7 @@ No requiere servidor, base de datos ni instalacion de dependencias.
 Coloca las fotos en la carpeta `imagenes` usando el codigo del producto como nombre.
 
 Ejemplo:
-
+ 
 - `imagenes/05001.jpg`
 - `imagenes/01972.jpg`
 - `imagenes/5002.jpg.webp`
